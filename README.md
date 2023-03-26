@@ -2,34 +2,33 @@
 
 
 Terraform Apply Command
+
 ![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
 
 Grafana Display
+
 ![](https://github.com/Kikeay/final_exam/blob/main/img/grafana.png)
 
 Guest-Book Display
+
 ![](https://github.com/Kikeay/final_exam/blob/main/img/guest-book.png)
 
 Guest-Book Pods
+
 ![](https://github.com/Kikeay/final_exam/blob/main/img/guestbook.png)
 
 Monitoring Pods
+
 ![](https://github.com/Kikeay/final_exam/blob/main/img/monitoring.png)
 
-Terraform Apply Command
-![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
+Prometheus Pods
 
-Terraform Apply Command
-![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
+![](https://github.com/Kikeay/final_exam/blob/main/img/prometheus.png)
 
-Terraform Apply Command
-![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
+Sock-Shop Display
 
-Terraform Apply Command
-![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
+![](https://github.com/Kikeay/final_exam/blob/main/img/sock-shop.png)
 
-Terraform Apply Command
-![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
+SockShop Pods
 
-Terraform Apply Command
-![](https://github.com/Kikeay/final_exam/blob/main/img/apply.png)
+![](https://github.com/Kikeay/final_exam/blob/main/img/sockshop.png)
